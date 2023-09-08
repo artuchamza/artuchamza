@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">💫 About Me:</h1>
 🔭 I’m currently working on Bootstrap and Javascript<br>🌱 I’m currently learning Bootstrap
 
 
