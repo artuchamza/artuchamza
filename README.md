@@ -1,9 +1,8 @@
 <h1 align="center">💫 About Me:</h1>
-- 🔭 I’m currently working on **Bootstrap and Javascript**
+🔭 I’m currently working on Bootstrap and Javascript
 
--🌱 I’m currently learning Bootstrap
+<br>🌱 I’m currently learning Bootstrap
 
-- 📫 How to reach me **grangerhamza@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artuc.hamza7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hamza Artuç) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/grangerhamza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/artuchamza7) 
